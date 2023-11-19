@@ -1,2 +1,0 @@
-# ayelro
-Hello World
