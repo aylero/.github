@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<img title="Aylero Logo" alt="Aylero Logo" src="https://aylero.ir/wp-content/themes/aylero/assets/images/aylero-profile.jpg">
-
 <!--
 
 **Here are some ideas to get you started:**
